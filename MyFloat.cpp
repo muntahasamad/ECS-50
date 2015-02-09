@@ -1,5 +1,4 @@
 #include "MyFloat.h"
-// Uncomment PRINT_DEBUG to print debug messages
 //#define PRINT_DEBUG 1
 
 MyFloat::MyFloat(){
